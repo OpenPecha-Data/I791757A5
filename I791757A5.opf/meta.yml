@@ -1,0 +1,25 @@
+id: I791757A5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:35:49.623788'
+last_modified: '2022-06-11T13:35:49.623793'
+parser: null
+source_metadata:
+  title: Haribhadra Series
+  language: bo
+  description: 'Texts by and about the celebrated master of Prajñāpāramitā Haribhadra
+    (seng ge bzang po):'
+  volume:
+    fCF3C:
+      title: Guru Yoga of the Great Learned and Accomplished Ācārya Haribhadra
+      base_file: fCF3C.txt
+      order: 1
+      parent: Guru Yoga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
